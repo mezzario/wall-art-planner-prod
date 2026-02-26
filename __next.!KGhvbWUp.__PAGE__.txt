@@ -1,0 +1,7 @@
+1:"$Sreact.fragment"
+2:I[38103,["/_next/static/chunks/3f46f3728a0012f3.js","/_next/static/chunks/21637b8d5a36eb6c.js"],"WallArt"]
+3:I[8815,["/_next/static/chunks/3f46f3728a0012f3.js","/_next/static/chunks/3c423d8bab51786d.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+:HL["/_next/static/chunks/78c2a5b5b0fe1c3c.css","style"]
+0:{"buildId":"UHUGwHIzr8JA-B7M1gSMa","rsc":["$","$1","c",{"children":[[["$","h1",null,{"style":{"position":"absolute","width":"1px","height":"1px","padding":0,"margin":"-1px","overflow":"hidden","clip":"rect(0, 0, 0, 0)","whiteSpace":"nowrap","border":0},"children":"Gallery Wall Planner — Free Online Wall Art Layout Tool"}],["$","$L2",null,{}]],[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/78c2a5b5b0fe1c3c.css","precedence":"next"}],["$","script","script-0",{"src":"/_next/static/chunks/3f46f3728a0012f3.js","async":true}],["$","script","script-1",{"src":"/_next/static/chunks/21637b8d5a36eb6c.js","async":true}]],["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null
