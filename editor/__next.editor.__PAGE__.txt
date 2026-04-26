@@ -1,0 +1,7 @@
+1:"$Sreact.fragment"
+2:I[38103,["/_next/static/chunks/0h1b8p1nnl1ub.js","/_next/static/chunks/002nz9zvzo7dh.js","/_next/static/chunks/06sexbsy7iwe0.js","/_next/static/chunks/0c-0m0tb167k~.js"],"WallArt"]
+3:I[38390,["/_next/static/chunks/0h1b8p1nnl1ub.js","/_next/static/chunks/002nz9zvzo7dh.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+:HL["/_next/static/chunks/0q5_.8_k_904c.css","style"]
+0:{"rsc":["$","$1","c",{"children":[[["$","h1",null,{"style":{"position":"absolute","width":"1px","height":"1px","padding":0,"margin":"-1px","overflow":"hidden","clip":"rect(0, 0, 0, 0)","whiteSpace":"nowrap","border":0},"children":"Wall Art Planner Editor"}],["$","$L2",null,{}]],[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0q5_.8_k_904c.css","precedence":"next"}],["$","script","script-0",{"src":"/_next/static/chunks/06sexbsy7iwe0.js","async":true}],["$","script","script-1",{"src":"/_next/static/chunks/0c-0m0tb167k~.js","async":true}]],["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"f0gt63bUUHtxDX6ACfdJ-"}
+5:null
